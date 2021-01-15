@@ -4,12 +4,6 @@ import Hello from './components/Hello';
 
 const names = [
   'James',
-  'Ron',
-  'Cassie',
-  'Baylie', 
-  'New Name',
-  'Again and Again',
-  'James'
 ]
 function App() {
   return (
